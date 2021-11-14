@@ -1,2 +1,4 @@
 leonardo david
 torres valverde
+lenguajes manejados: java, c#, python
+sgbd: postgresql, sqlserver, mariadb, firebird.
